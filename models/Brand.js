@@ -6,6 +6,4 @@ const Brand = mongoose.model("Brand", {
   country: String,
 });
 
-//console.log("Phone model initialized.");
-
 module.exports = Brand;
